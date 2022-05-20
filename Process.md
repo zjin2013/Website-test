@@ -7,4 +7,4 @@
 - Use "Settings" -> GitHub Pages to publish the .md files to a website
 ![Image](ottawa-image1.jpg)
 
-[Go back to ReadMe](README.MD)
+[Go back to ReadMe](README.md)
