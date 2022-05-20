@@ -6,3 +6,5 @@
 - Create an index.html file which will be acting as a TOC to connect all individual files together;
 - Use "Settings" -> GitHub Pages to publish the .md files to a website
 ![Image](ottawa-image1.jpg)
+
+[How to items.md](How to items.md)
