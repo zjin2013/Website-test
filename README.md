@@ -2,6 +2,5 @@
 ![](Precision-logo.png)  
 
 [Process](Process.md)  
-
-[HowTo items](How to items.md)
+[Process](How to items.md)  
 
