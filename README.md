@@ -1,6 +1,8 @@
-# Website-test
-A basic free website
-- This is the first file in this repo;
-- The second file is a .md file;
-- The third file is an index file;  
-![image-Ottawa](ottawa-image1.jpg)
+# Process
+- Use Pandoc to convert Word file to .md file and verify and correct it manually; 
+  Example command: pandoc -t gfm -o file.md Content.docx;
+- Add .md file to the X directory;
+- Convert all .md files to Word file using Pandoc;
+- Create an index.html file which will be acting as a TOC to connect all individual files together;
+- Use "Settings" -> GitHub Pages to publish the .md files to a website
+![Image](ottawa-image1.jpg)
