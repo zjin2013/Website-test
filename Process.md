@@ -5,6 +5,6 @@
 - Convert all .md files to Word file using Pandoc;
 - Create an index.html file which will be acting as a TOC to connect all individual files together;
 - Use "Settings" -> GitHub Pages to publish the .md files to a website
-![Image](ottawa-image1.jpg)
+![Image](ottawa-image1.jpg)  
 
-[Go back to ReadMe](README.md)
+[Go back to README](README.md)  
