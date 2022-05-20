@@ -1,8 +1,8 @@
 # Welcome to MD files to Webpages
 ![](Precision-logo.png)  
 
-[Process.md](Process.md)  
+[Process](Process.md)  
 
-[How to items.md](How to items.md)
+[How to items](How to items.md)
 
 
